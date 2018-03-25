@@ -5,4 +5,5 @@
 > python manage.py migrate
 > python manage.py runserver 8000
 
+Playing with the API
 > python manage.py shell
