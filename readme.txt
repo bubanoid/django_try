@@ -7,3 +7,5 @@
 
 Playing with the API
 > python manage.py shell
+
+> python manage.py createsuperuser
